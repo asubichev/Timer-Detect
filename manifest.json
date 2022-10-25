@@ -5,6 +5,12 @@
 
     "description": "Searches for a timer on the screen that matches a specified format",
 
+    "homepage_url": "https://github.com/asubichev/Timer-Detect",
+
+    "permissions": [
+        "activeTab"
+    ],
+
     "icons": {
         "48": "icons/border-48.png"
     },
