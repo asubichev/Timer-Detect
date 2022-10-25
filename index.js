@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 
 (async () => {
   const browser = await puppeteer.launch({
-	product: 'firefox'
+	product: 'chrome'
   });
   const page = await browser.newPage();
   await page.goto('https://www.bannerbear.com');

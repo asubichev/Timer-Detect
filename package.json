@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/asubichev/Timer-Detect/issues"
   },
-  "homepage": "https://github.com/asubichev/Timer-Detect#readme",
-  "dependencies": {
-    "puppeteer": "^19.1.1"
-  }
+  "homepage": "https://github.com/asubichev/Timer-Detect#readme"
 }
