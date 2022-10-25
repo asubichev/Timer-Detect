@@ -1,0 +1,1 @@
+document.body.style.border = "5px solid red"; //shows that it's in use

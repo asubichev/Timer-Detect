@@ -1,0 +1,18 @@
+{
+    "manifest_version":2,
+    "name": "timerdetect",
+    "version": "0.0",
+
+    "description": "Searches for a timer on the screen that matches a specified format",
+
+    "icons": {
+        "48": "icons/border-48.png"
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["*://*.course4.comedydriving.com/course*"],
+            "js": ["app.js"]
+        }
+    ]
+}
